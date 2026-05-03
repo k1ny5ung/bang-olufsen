@@ -67,6 +67,7 @@ Based on the above-provided information, perform the following tasks:
 
 Review the feature description and identify unclear or missing requirements, assumptions you would need to test effectively, top quality risks you would raise before test execution starts
 
+#### (Static Testing & Risk-based Testing)
 ##### [Unclear or Missing Requirements]
 
  - Does the restriction on operation when the battery is below 5% apply to both earbuds simultaneously, or does it trigger if even just one earbud falls below 5%?
@@ -107,6 +108,7 @@ Review the feature description and identify unclear or missing requirements, ass
 
 #### Task 2: 
 
+#### (Test Strategy & Experience-based Testing)
 Describe your test approach for this feature:
 
 	- what you would test first and why
@@ -134,6 +136,7 @@ Describe your test approach for this feature:
 
 #### Task 3: 
 
+#### (Test Conditions & Operational Profiles)
 Write between 05-10 high-value test scenarios for this feature:
 
 	- Verify that mode changes in the app are reflected in the hardware within 2 seconds.
@@ -147,6 +150,7 @@ Write between 05-10 high-value test scenarios for this feature:
 
 #### Task 4: 
 
+#### (Black-box Test Techniques)
 Write at least 2 detailed test cases in a standard format
 
 Case 1) Automatic Restoration of Last Selected Mode upon Reconnection
@@ -171,6 +175,7 @@ Case 2) Pause/Resume when Receiving/Ending a Call During Music Playback
 
 #### Task 5: 
 
+#### (Defect Management)
 During testing, you observe the following issue:
 
 	- The user selects Transparency Mode in the app while the earbuds are connected. The app immediately updates and shows Transparency Mode as active. However, the earbuds remain in Noise Cancellation for around 8–12 seconds. In some cases, after placing the earbuds back in the case and reconnecting, the app still shows Transparency Mode, but the earbuds are actually in Noise Cancellation Mode.
@@ -203,6 +208,7 @@ When selecting 'Transparency' mode in the app, the UI updates immediately, but i
 
 #### Task 6: 
 
+#### (Experience-based & Environmental Testing)
 Describe how you would explore this feature beyond scripted testing. Please include the kinds of real-world situations you would investigate for headphones/earbuds.
 
 1. Verify if mode-switching commands are lost or delayed in environments with heavy 2.4GHz signal congestion, such as subway stations or crowded cafes.
@@ -214,6 +220,7 @@ Describe how you would explore this feature beyond scripted testing. Please incl
 
 #### Task 7: 
 
+#### (Exit Criteria & Residual Risk)
 Assume these issues were found near release:
 
 	- On Android, listening mode changes sometimes take 4 seconds instead of 2 seconds
