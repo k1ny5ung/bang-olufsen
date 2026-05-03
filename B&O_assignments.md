@@ -2,15 +2,15 @@
 ---
 ## INSTRUCTIONS
 
-This task will be reviewed by the Bang & Olufsen QA team. To maintain anonymity, please do not provide your name, email address, or any other personal identifiable information in the submission files.
+- This task will be reviewed by the Bang & Olufsen QA team. To maintain anonymity, please do not provide your name, email address, or any other personal identifiable information in the submission files.
 
-Please download assignment from this repository. Do NOT create pull requests to this repository.
+- Please download assignment from this repository. Do NOT create pull requests to this repository.
 
-Please share your solution with us via GitHub repository and provide the repository link in your email. Ensure your repository is public or accessible with the appropriate permissions.
+- Please share your solution with us via GitHub repository and provide the repository link in your email. Ensure your repository is public or accessible with the appropriate permissions.
 
-Please provide relevant documentation of your work in markdown file format, and feel free to mention references for your work if you have used any.
+- Please provide relevant documentation of your work in markdown file format, and feel free to mention references for your work if you have used any.
 
-If you used any AI tool or LLM model while completing this assignment, please also answer the following in a separate document file:
+- If you used any AI tool or LLM model while completing this assignment, please also answer the following in a separate document file:
 
 Which AI tool or LLM model did you use, and why did you choose it?
 How did you use it during the assignment?
