@@ -5,7 +5,7 @@ If you used any AI tool or LLM model while completing this assignment, please al
 - How did you use it during the assignment?
   - I used the results to see how well they aligned with my own reasoning and to identify any insights or information I might have missed. Additionally, I received significant help with analyzing Bluetooth packets, an area with which I was previously unfamiliar.
 - Approximately how much time did you spend using it?
-  - Approximately 20% of entire time
+  - Approximately 20-30% of entire time
 - Which part of your solution benefited the most from it?
   - Analyzing Bluetooth packets was extremely helpful, as I have experience with Wi-Fi packets but no prior exposure to Bluetooth packets in my previous work.
 - What was the biggest drawback or limitation?
