@@ -1,5 +1,5 @@
-- If you used any AI tool or LLM model while completing this assignment, please also answer the following in a separate document file:
-	- Which AI tool or LLM model did you use, and why did you choose it?
+If you used any AI tool or LLM model while completing this assignment, please also answer the following in a separate document file:
+- Which AI tool or LLM model did you use, and why did you choose it?
   - Gemini, ChatGPT, Perplexity
   - easy to use for free-users
 - How did you use it during the assignment?
