@@ -2,17 +2,17 @@
 	- Which AI tool or LLM model did you use, and why did you choose it?
   - Gemini, ChatGPT, Perplexity
   - easy to use for free-users
-	- How did you use it during the assignment?
+- How did you use it during the assignment?
   - I used the results to see how well they aligned with my own reasoning and to identify any insights or information I might have missed. Additionally, I received significant help with analyzing Bluetooth packets, an area with which I was previously unfamiliar.
-	- Approximately how much time did you spend using it?
+- Approximately how much time did you spend using it?
   - 10 ~ 20% of entire time
-	- Which part of your solution benefited the most from it?
+- Which part of your solution benefited the most from it?
   - Analyzing Bluetooth packets was extremely helpful, as I have experience with Wi-Fi packets but no prior exposure to Bluetooth packets in my previous work.
-	- What was the biggest drawback or limitation?
+- What was the biggest drawback or limitation?
   - Since there were limitations to analyzing the Wireshark capture file directly, I had to search for the specific details I needed and then ask follow-up questions based on that information to finally find the answers I was looking for.
-	- How did you validate the AI-generated output before submitting your final answer?
+- How did you validate the AI-generated output before submitting your final answer?
   - cross check with other AI tool or Google searching
-	- Were there any suggestions from the AI tool that you decided not to use? Why?
+- Were there any suggestions from the AI tool that you decided not to use? Why?
   - Perplexity generate very simple and poor answer
-	- What part of the final submission best reflects your own independent reasoning?
+- What part of the final submission best reflects your own independent reasoning?
   - test cases
