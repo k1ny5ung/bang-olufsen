@@ -1,5 +1,7 @@
-Software QA Technical Assignment
-INSTRUCTIONS
+# Software QA Technical Assignment
+---
+## INSTRUCTIONS
+
 This task will be reviewed by the Bang & Olufsen QA team. To maintain anonymity, please do not provide your name, email address, or any other personal identifiable information in the submission files.
 
 Please download assignment from this repository. Do NOT create pull requests to this repository.
@@ -29,6 +31,7 @@ Feature under test: Adaptive Listening Modes
 
 The mobile app allows the user to connect their headphones/earbuds and control listening modes. The new feature includes:
 
+```
 - switching between: Noise Cancellation and Transparency Mode
 - saving the user’s last selected mode
 - automatically restoring the last selected mode when the device reconnects
@@ -37,6 +40,8 @@ The mobile app allows the user to connect their headphones/earbuds and control l
 - allowing listening mode change only when the product is connected
 - preventing listening mode switching when the battery is critically low
 - supporting both iOS and Android
+```
+
 Expected behavior:
 
 - The user can change listening mode only when the device is connected
