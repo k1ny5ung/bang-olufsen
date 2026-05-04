@@ -118,6 +118,7 @@ Describe your test approach for this feature:
 
 	- what areas would you prioritize most
 	-> Sanity test after smoke: all new features work correctly without any issue
+	-> software / firmware upgrade: It should be stable during upgrade and after upgrade
 	
 	- what you would focus on in exploratory testing
 	-> Verify that when a call is received during music playback, the audio correctly pauses and then resumes/stops as expected after the call ends.
